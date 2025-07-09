@@ -22,7 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 # Ignore environment config files
+# Ignore local environment files
 .env
 backend/.env
 frontend/.env
+
+# Ignore dependencies
+node_modules/
